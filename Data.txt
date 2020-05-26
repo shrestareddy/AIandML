@@ -1,4 +1,5 @@
 AIandML
 Data science
 Advanced Programming
-
+Basics of Python programming
+Python programming can easy and simple
